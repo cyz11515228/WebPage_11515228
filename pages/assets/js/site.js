@@ -17,6 +17,15 @@ if (menuButton && siteNav) {
     }
   });
 
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && menuButton.getAttribute('aria-expanded') === 'true') {
+      menuButton.setAttribute('aria-expanded', 'false');
+      menuButton.querySelector('.sr-only').textContent = '開啟選單';
+      siteNav.classList.remove('is-open');
+      menuButton.focus();
+    }
+  });
+
   window.addEventListener('resize', () => {
     if (window.innerWidth > 800) {
       menuButton.setAttribute('aria-expanded', 'false');
