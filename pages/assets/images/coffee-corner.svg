@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">可飛咖啡的窗邊一角</title><desc id="desc">以淺藍、米白與暖黃色描繪的咖啡杯、窗景與室內植物插畫</desc>
+  <defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#e8f1ef"/><stop offset="1" stop-color="#d7e5e2"/></linearGradient><linearGradient id="window" x2="0" y2="1"><stop stop-color="#c7e1e5"/><stop offset="1" stop-color="#f3e9cf"/></linearGradient><filter id="shadow" x="-.3" y="-.3" width="1.6" height="1.7"><feGaussianBlur stdDeviation="12"/></filter></defs>
+  <rect width="900" height="680" fill="url(#wall)"/><rect y="510" width="900" height="170" fill="#c5b49d"/><rect y="496" width="900" height="18" fill="#b8a58c"/>
+  <rect x="75" y="45" width="470" height="360" rx="5" fill="#f8f6eb"/><rect x="92" y="62" width="436" height="326" fill="url(#window)"/><path d="M310 62v326M92 225h436" stroke="#f8f6eb" stroke-width="15"/>
+  <circle cx="435" cy="137" r="48" fill="#f1c86d" opacity=".88"/><path d="M105 350q80-135 165-5 65-108 120-5 57-111 125-4v52H105z" fill="#aac8bf" opacity=".72"/><path d="M93 381h434v8H93z" fill="#9dbab5"/>
+  <ellipse cx="480" cy="546" rx="200" ry="42" fill="#354c47" opacity=".17" filter="url(#shadow)"/>
+  <path d="M197 463q-6 64 15 76 17 10 167 0 24-3 28-76z" fill="#f8f5e9"/><path d="M406 479q53-5 52 32-2 32-54 24" fill="none" stroke="#f8f5e9" stroke-width="19"/><ellipse cx="298" cy="464" rx="101" ry="19" fill="#fffdf5"/><ellipse cx="298" cy="466" rx="82" ry="12" fill="#8b6244"/><path d="M266 466q32-24 65 0-33 23-65 0" fill="none" stroke="#d9ae71" stroke-width="4"/>
+  <ellipse cx="299" cy="547" rx="153" ry="18" fill="#8c725a"/><path d="M160 545q138 23 279-1" fill="none" stroke="#d2bea3" stroke-width="5"/>
+  <path d="M688 503q1-134 12-194" fill="none" stroke="#927759" stroke-width="15"/><path d="M700 350q-93-108-130-45 31 74 130 45zm4-35q83-125 128-68-17 84-128 68zm-4-41q-40-138 24-141 50 75-24 141zm-1 110q118-73 140-11-56 72-140 11z" fill="#7f9e7f"/><path d="M650 500h105l-11 76q-40 27-83 0z" fill="#d99e79"/><ellipse cx="702" cy="501" rx="52" ry="12" fill="#e7b18c"/><path d="M660 524h83" stroke="#f0c9aa" stroke-width="4"/>
+  <path d="M600 480l64-86 31 18-65 90z" fill="#f1d990" opacity=".65"/><circle cx="112" cy="478" r="6" fill="#f1c86d"/><circle cx="143" cy="451" r="3" fill="#fffdf5"/><path d="M570 108l8 19 20 2-15 13 5 20-18-11-18 11 5-20-15-13 20-2z" fill="#fffdf5" opacity=".78"/>
+</svg>
